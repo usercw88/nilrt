@@ -54,3 +54,7 @@
 	path = sources/pyrex
 	url = ../pyrex.git
 	branch = nilrt/master/scarthgap
+[submodule "sources/meta-secure-core"]
+	path = sources/meta-secure-core
+	url = https://github.com/usercw88/meta-secure-core.git
+	branch = nilrt/master/scarthgap
